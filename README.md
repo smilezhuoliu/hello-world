@@ -1,2 +1,3 @@
 # hello-world
-Just try creating a new repository
+Hi everyone!
+My name is Joy Liu and this is the first time I come to GitHub:)
